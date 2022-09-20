@@ -1,0 +1,15 @@
+logs
+*.log
+npm-debug.log*
+node_modules/
+.npm
+.env
+*.local.*
+.DS_Store
+
+# Eleventy
+_site
+
+# wrg
+*.wacz
+*.warc
